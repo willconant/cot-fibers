@@ -1,11 +1,11 @@
 {
   "name": "cot-fibers",
-  "description": "bare-bones couchdb interface for node with node-fibers",
+  "description": "bare-bones couchdb interface for node with fibers",
   "keywords": ["couch", "couchdb"],
   "version": "0.0.2",
   "main": "cot-fibers",
   "dependencies": {
-  	"cot": "0.0.2",
+    "cot": "0.0.2",
     "fibers": "1.0.0"
   },
   "author": {
