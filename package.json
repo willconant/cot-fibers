@@ -1,0 +1,20 @@
+{
+  "name": "cot-fibers",
+  "description": "bare-bones couchdb interface for node with node-fibers",
+  "keywords": ["couch", "couchdb"],
+  "version": "0.0.2",
+  "main": "cot-fibers",
+  "dependencies": {
+  	"cot": "0.0.2",
+    "node-fibers": "1.0.0"
+  },
+  "author": {
+    "name": "Will Conant",
+    "email": "will.conant@gmail.com",
+    "url": "http://willconant.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/willconant/cot-fibers"
+  }  
+}
